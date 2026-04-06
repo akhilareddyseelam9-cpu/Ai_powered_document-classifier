@@ -1,0 +1,7 @@
+streamlit==1.32.0
+matplotlib==3.8.0
+PyPDF2
+docx2txt
+pandas
+numpy
+Pillow
